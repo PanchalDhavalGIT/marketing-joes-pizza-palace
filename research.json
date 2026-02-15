@@ -1,0 +1,72 @@
+{
+  "business": "Joe's Pizza Palace",
+  "industry": "restaurant",
+  "research_date": "2026-02-15",
+  "target_audience": {
+    "primary": "Families and couples in Brooklyn aged 25-54 who value authentic, quality dining experiences",
+    "secondary": "Young professionals 18-34 seeking delivery/takeout convenience with premium quality",
+    "tertiary": "Corporate clients and event planners needing catering for private events",
+    "demographics": {
+      "age_range": "18-65+",
+      "income": "Middle to upper-middle class",
+      "location": "Brooklyn, NY and surrounding boroughs",
+      "lifestyle": "Food-conscious, value authenticity and tradition, social diners"
+    },
+    "pain_points": [
+      "Finding authentic NYC-style pizza vs chain restaurants",
+      "Difficulty booking for private events and large groups",
+      "Wanting to know ingredient quality and sourcing",
+      "Need for reliable delivery that maintains food quality",
+      "Desire for a family-friendly yet upscale atmosphere"
+    ]
+  },
+  "key_selling_points": [
+    "Family-owned since 1995 — nearly 30 years of tradition",
+    "Authentic brick oven cooking for superior flavor and texture",
+    "Secret sauce recipe passed down three generations",
+    "New York-style pizza in the heart of Brooklyn",
+    "Homemade pasta made fresh daily",
+    "Full-service catering for events of all sizes",
+    "Private event space available"
+  ],
+  "competitor_features": [
+    "Online ordering with real-time tracking",
+    "High-quality food photography",
+    "Customer reviews and ratings prominently displayed",
+    "Easy-to-find menu with prices",
+    "Reservation/booking system",
+    "Mobile-optimized responsive design",
+    "Social media integration",
+    "Google Maps integration for directions",
+    "Story/about section highlighting heritage"
+  ],
+  "trust_signals": [
+    "Customer testimonials and star ratings",
+    "Years in business (est. 1995)",
+    "Family-owned narrative and generational recipes",
+    "High-quality food photography",
+    "Transparent ingredient sourcing stories",
+    "Staff/chef profiles",
+    "Local community involvement",
+    "Press mentions and awards",
+    "Health and safety certifications"
+  ],
+  "design_inspiration": {
+    "trends": [
+      "Warm earth tones with rustic textures",
+      "Large hero images of signature dishes",
+      "Elegant typography combining serif headings with clean sans-serif body",
+      "Subtle animations on scroll",
+      "Glass morphism navigation bars",
+      "Generous whitespace and breathing room",
+      "Story-driven about pages with timelines",
+      "Card-based service/menu layouts with hover effects"
+    ],
+    "award_winning_examples": [
+      "Margot — muted palette, seasonal menus, elegant layout",
+      "Landini Brothers — sepia tones, heritage storytelling",
+      "Rubirosa Ristorante — sophisticated NYC Italian-American",
+      "Pastaria — fresh, family-friendly, modern approach"
+    ]
+  }
+}

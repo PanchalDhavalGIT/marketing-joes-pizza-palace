@@ -1,0 +1,41 @@
+{
+  "business": {
+    "business_name": "Joe's Pizza Palace",
+    "industry": "restaurant",
+    "description": "Family-owned Italian restaurant serving authentic New York-style pizza and homemade pasta since 1995. Known for our brick oven and secret sauce recipe passed down three generations.",
+    "address": "123 Main St",
+    "phone": "555-867-5309",
+    "email": "info@joespizza.com",
+    "services": "Pizza, Pasta, Catering, Delivery, Dine-In, Private Events",
+    "website": "https://joespizza-example.com",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip_code": 11201,
+    "slug": "joes-pizza-palace"
+  },
+  "theme": {
+    "id": "warm-rustic",
+    "name": "Warm Rustic",
+    "colors": {
+      "primary": "#5c3d2e",
+      "secondary": "#8b5e3c",
+      "accent": "#d4a373",
+      "background": "#fefae0",
+      "surface": "#ffffff",
+      "text": "#3d2c22",
+      "text_muted": "#7a6b5d"
+    },
+    "fonts": {
+      "heading": "Playfair Display",
+      "body": "Lato"
+    },
+    "layout": "wide",
+    "hero_style": "full-bleed",
+    "card_style": "flat-colored",
+    "mood": [
+      "warm",
+      "inviting",
+      "authentic"
+    ]
+  }
+}

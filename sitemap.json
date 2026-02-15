@@ -1,0 +1,145 @@
+{
+  "site_name": "Joe's Pizza Palace",
+  "base_url": "https://joespizza.com",
+  "navigation": {
+    "primary": [
+      { "label": "Home", "path": "/" },
+      { "label": "About", "path": "/about" },
+      { "label": "Services", "path": "/services" },
+      { "label": "Blog", "path": "/blog" },
+      { "label": "Contact", "path": "/contact" }
+    ],
+    "cta": {
+      "label": "Order Now",
+      "path": "/contact",
+      "style": "accent-button"
+    }
+  },
+  "pages": {
+    "home": {
+      "path": "/",
+      "title": "Joe's Pizza Palace — Brooklyn's Finest Since 1995",
+      "sections": [
+        {
+          "type": "hero",
+          "style": "full-bleed-gradient",
+          "content": "Main headline, subheadline, dual CTA buttons"
+        },
+        {
+          "type": "stats-bar",
+          "content": "Years in business, pizzas served, 5-star reviews, family recipes"
+        },
+        {
+          "type": "services-grid",
+          "content": "6 service cards with icons and brief descriptions"
+        },
+        {
+          "type": "story-preview",
+          "content": "Brief about section with image placeholder and CTA to about page"
+        },
+        {
+          "type": "testimonials",
+          "content": "3 customer testimonials in card carousel"
+        },
+        {
+          "type": "cta-section",
+          "content": "Final call to action with accent gradient background"
+        }
+      ]
+    },
+    "about": {
+      "path": "/about",
+      "title": "Our Story — Joe's Pizza Palace",
+      "sections": [
+        {
+          "type": "page-hero",
+          "content": "About page header with warm gradient"
+        },
+        {
+          "type": "story",
+          "content": "Origin story narrative with image placeholders"
+        },
+        {
+          "type": "timeline",
+          "content": "Key milestones from 1995 to present"
+        },
+        {
+          "type": "values",
+          "content": "4 core values with icons"
+        },
+        {
+          "type": "team",
+          "content": "Key team member profiles"
+        },
+        {
+          "type": "cta-section",
+          "content": "Visit us CTA"
+        }
+      ]
+    },
+    "services": {
+      "path": "/services",
+      "title": "What We Offer — Joe's Pizza Palace",
+      "sections": [
+        {
+          "type": "page-hero",
+          "content": "Services header"
+        },
+        {
+          "type": "services-detail",
+          "content": "6 detailed service cards with descriptions"
+        },
+        {
+          "type": "process",
+          "content": "How ordering/catering works - 3 step process"
+        },
+        {
+          "type": "cta-section",
+          "content": "Get in touch CTA"
+        }
+      ]
+    },
+    "blog": {
+      "path": "/blog",
+      "title": "From Our Kitchen — Joe's Pizza Palace Blog",
+      "sections": [
+        {
+          "type": "page-hero",
+          "content": "Blog header"
+        },
+        {
+          "type": "blog-grid",
+          "content": "3 blog post cards with titles, excerpts, dates"
+        }
+      ]
+    },
+    "contact": {
+      "path": "/contact",
+      "title": "Contact Us — Joe's Pizza Palace",
+      "sections": [
+        {
+          "type": "page-hero",
+          "content": "Contact header"
+        },
+        {
+          "type": "contact-form",
+          "content": "Name, email, phone, subject, message fields"
+        },
+        {
+          "type": "business-info",
+          "content": "Address, phone, email, hours of operation"
+        },
+        {
+          "type": "map-placeholder",
+          "content": "Styled map placeholder for Brooklyn location"
+        }
+      ]
+    }
+  },
+  "cta_strategy": {
+    "primary_cta": "Order Now",
+    "secondary_cta": "View Our Menu",
+    "placement": "Hero section, end of each page section, floating header button",
+    "style": "Accent color button with hover animation and subtle shadow"
+  }
+}

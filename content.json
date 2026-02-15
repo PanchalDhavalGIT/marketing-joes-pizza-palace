@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "Joe's Pizza Palace — Brooklyn's Finest Since 1995",
+    "description": "Family-owned Italian restaurant in Brooklyn, NY serving authentic New York-style brick oven pizza and homemade pasta. Three generations of flavor, one unforgettable experience.",
+    "og_title": "Joe's Pizza Palace — Authentic Brooklyn Pizza Since 1995",
+    "og_description": "Brick oven pizza, handmade pasta, and a secret sauce recipe passed down three generations. Visit us in Brooklyn or order delivery today.",
+    "twitter_title": "Joe's Pizza Palace — Brooklyn's Finest Pizza",
+    "twitter_description": "Authentic New York-style pizza from our family to yours. Brick oven baked, handmade daily in Brooklyn since 1995."
+  },
+  "home": {
+    "hero": {
+      "headline": "Brick Oven Pizza, Made the Brooklyn Way",
+      "subheadline": "Three generations of passion. One unforgettable slice. Family-owned since 1995, Joe's Pizza Palace brings you authentic New York-style pizza baked in our signature brick oven with a secret sauce recipe that keeps Brooklyn coming back.",
+      "cta_primary": "Order Now",
+      "cta_secondary": "Explore Our Menu"
+    },
+    "stats": [
+      { "number": "30+", "label": "Years of Tradition" },
+      { "number": "500K+", "label": "Pizzas Served" },
+      { "number": "4.9", "label": "Star Rating" },
+      { "number": "3", "label": "Generations" }
+    ],
+    "services_intro": {
+      "headline": "More Than Just Great Pizza",
+      "subheadline": "From our brick oven to your table — whether you're dining in, ordering delivery, or planning a private event, we bring the same passion to every dish."
+    },
+    "story_preview": {
+      "headline": "A Family Legacy in Every Bite",
+      "text": "When Giuseppe Russo opened a small pizzeria on Main Street in 1995, he had one vision: bring the authentic flavors of his Neapolitan childhood to Brooklyn. Three decades later, his grandson Joe continues the tradition with the same brick oven, the same secret sauce, and the same unwavering commitment to quality.",
+      "cta": "Read Our Story"
+    },
+    "testimonials_headline": "What Brooklyn Is Saying",
+    "testimonials": [
+      {
+        "name": "Maria Gonzalez",
+        "role": "Local Regular",
+        "text": "I've been coming to Joe's every Friday for fifteen years. The margherita pizza is hands down the best in Brooklyn. You can taste the love in every bite.",
+        "rating": 5
+      },
+      {
+        "name": "David Chen",
+        "role": "Food Blogger",
+        "text": "If you want to know what real New York pizza tastes like, Joe's is the answer. The crust is perfectly charred, the sauce has this incredible depth of flavor, and the atmosphere feels like family.",
+        "rating": 5
+      },
+      {
+        "name": "Sarah Mitchell",
+        "role": "Event Planner",
+        "text": "We booked Joe's for our company holiday party and they exceeded every expectation. The catering was impeccable, the pasta was divine, and their team made the whole process seamless.",
+        "rating": 5
+      }
+    ],
+    "cta_section": {
+      "headline": "Ready to Taste the Tradition?",
+      "text": "Whether it's a quick slice, a family dinner, or catering for your next big event — we're here to serve you the best pizza Brooklyn has to offer.",
+      "cta": "Get in Touch"
+    }
+  },
+  "about": {
+    "hero": {
+      "headline": "Our Story",
+      "subheadline": "Three generations of passion, one brick oven, and the secret sauce that started it all."
+    },
+    "story": {
+      "paragraphs": [
+        "In 1995, Giuseppe Russo arrived in Brooklyn with a dream, a brick oven, and a sauce recipe his grandmother had perfected in Naples. He opened a modest pizzeria on Main Street with just six tables and a conviction that authentic Italian flavors could win over New York.",
+        "Word spread fast. The hand-tossed dough, the fresh mozzarella, the sauce with its hint of something nobody could quite place — Giuseppe's pizza wasn't just food, it was an experience. Families made it their Friday tradition. Couples found their favorite booth. Kids grew up sneaking extra garlic knots when their parents weren't looking.",
+        "Today, Joe — Giuseppe's grandson — runs the kitchen with the same standards his grandfather set. The brick oven is original. The sauce recipe hasn't changed. And the commitment to serving every customer like family? That's the one ingredient we'll never run out of."
+      ]
+    },
+    "timeline": [
+      { "year": "1995", "title": "The Beginning", "description": "Giuseppe Russo opens the original Joe's Pizza Palace on Main Street in Brooklyn with a single brick oven and a family recipe." },
+      { "year": "2003", "title": "The Expansion", "description": "After eight years of growing demand, we expand our dining room and add our beloved outdoor patio seating." },
+      { "year": "2010", "title": "Catering Launch", "description": "We begin offering full-service catering, bringing the Joe's experience to weddings, corporate events, and private parties across the city." },
+      { "year": "2018", "title": "Next Generation", "description": "Joe Russo takes over the kitchen, carrying on his grandfather's legacy while introducing new homemade pasta dishes." },
+      { "year": "2025", "title": "30 Years Strong", "description": "Three decades of serving Brooklyn. Over 500,000 pizzas. Same brick oven. Same secret sauce. Same commitment to family." }
+    ],
+    "values": [
+      {
+        "title": "Authentic Recipes",
+        "description": "Every dish is made from recipes passed down through three generations, using traditional Italian techniques and the freshest ingredients.",
+        "icon": "recipe"
+      },
+      {
+        "title": "Family First",
+        "description": "We treat every customer like family. From the moment you walk in, you're part of the Joe's Pizza Palace story.",
+        "icon": "heart"
+      },
+      {
+        "title": "Quality Ingredients",
+        "description": "We source premium cheeses, import San Marzano tomatoes, and make our dough fresh every morning. No shortcuts, ever.",
+        "icon": "leaf"
+      },
+      {
+        "title": "Community Roots",
+        "description": "Brooklyn isn't just where we are — it's who we are. We support local suppliers, sponsor little league teams, and give back to the neighborhood that raised us.",
+        "icon": "community"
+      }
+    ],
+    "team": [
+      {
+        "name": "Joe Russo",
+        "role": "Head Chef & Owner",
+        "bio": "Third-generation pizzaiolo carrying on his grandfather Giuseppe's legacy. Trained in Naples, perfected in Brooklyn."
+      },
+      {
+        "name": "Maria Russo",
+        "role": "General Manager",
+        "bio": "The heart of our front-of-house operations. Maria ensures every guest feels like they're dining at a family table."
+      },
+      {
+        "name": "Marco DiNapoli",
+        "role": "Executive Sous Chef",
+        "bio": "A culinary school graduate with 15 years of experience in Italian cuisine. Marco crafts our seasonal pasta specials."
+      }
+    ]
+  },
+  "services": {
+    "hero": {
+      "headline": "What We Offer",
+      "subheadline": "From quick slices to full-service catering, we bring the same passion and quality to everything we do."
+    },
+    "items": [
+      {
+        "title": "Pizza",
+        "description": "Our signature brick oven pizzas are the heart of everything we do. Hand-tossed dough, San Marzano tomato sauce, fresh mozzarella, and toppings that range from classic margherita to our legendary Meat Lover's Supreme. Every pie is baked to perfection in our original 1995 brick oven.",
+        "features": ["Classic & specialty pies", "Brick oven baked", "Gluten-free options available", "By the slice or whole pie"],
+        "icon": "pizza"
+      },
+      {
+        "title": "Pasta",
+        "description": "Handmade fresh daily using traditional Italian techniques. From silky fettuccine alfredo to our rich, slow-simmered bolognese, every pasta dish showcases the depth of flavor that only fresh, house-made noodles can deliver.",
+        "features": ["Made fresh daily", "Classic Italian recipes", "Seasonal specials", "Family-size portions available"],
+        "icon": "pasta"
+      },
+      {
+        "title": "Catering",
+        "description": "Bring the Joe's experience to your next event. Our full-service catering team handles everything from intimate dinner parties to large corporate gatherings, with customizable menus that showcase our full range of Italian specialties.",
+        "features": ["Custom menus", "Full-service setup", "Events of 20 to 200+", "Professional staff included"],
+        "icon": "catering"
+      },
+      {
+        "title": "Delivery",
+        "description": "Can't make it to Brooklyn? We'll bring Brooklyn to you. Our delivery service ensures your pizza arrives hot, fresh, and exactly as it would taste straight from our brick oven. Available seven days a week across Brooklyn and surrounding areas.",
+        "features": ["Hot & fresh guarantee", "7 days a week", "Brooklyn-wide coverage", "Online ordering"],
+        "icon": "delivery"
+      },
+      {
+        "title": "Dine-In",
+        "description": "Pull up a chair and stay awhile. Our warm, rustic dining room is the perfect setting for everything from a casual weeknight dinner to a celebratory family feast. Enjoy the aroma of our brick oven, a glass of Italian wine, and hospitality that feels like home.",
+        "features": ["Warm, inviting atmosphere", "Full bar & wine list", "Family-friendly", "Outdoor patio seating"],
+        "icon": "dineIn"
+      },
+      {
+        "title": "Private Events",
+        "description": "Celebrate life's milestones at Joe's. Our private dining space accommodates up to 60 guests and comes with dedicated staff, custom menu planning, and the unmistakable warmth of a Joe's Pizza Palace experience. Perfect for birthdays, anniversaries, rehearsal dinners, and more.",
+        "features": ["Private dining room", "Up to 60 guests", "Custom menu planning", "Dedicated event coordinator"],
+        "icon": "events"
+      }
+    ],
+    "process": {
+      "headline": "How It Works",
+      "steps": [
+        { "step": 1, "title": "Choose Your Experience", "description": "Browse our menu, pick your favorites, or tell us about your event. We'll help you craft the perfect meal." },
+        { "step": 2, "title": "We Prepare with Care", "description": "Every dish is made fresh to order using our family recipes, premium ingredients, and our legendary brick oven." },
+        { "step": 3, "title": "Enjoy Every Bite", "description": "Whether you're dining in our restaurant, hosting an event, or opening a delivery box at home — savor the tradition." }
+      ]
+    }
+  },
+  "blog": {
+    "hero": {
+      "headline": "From Our Kitchen",
+      "subheadline": "Stories, recipes, and a behind-the-scenes look at life inside Brooklyn's favorite pizzeria."
+    },
+    "posts": [
+      {
+        "title": "The Secret Behind Our Brick Oven: Why It Makes All the Difference",
+        "excerpt": "Our original 1995 brick oven isn't just a cooking tool — it's the soul of our restaurant. Learn why brick oven baking creates a pizza experience that no conventional oven can match, from the perfect char to the smoky depth of flavor.",
+        "date": "February 10, 2026",
+        "category": "Behind the Scenes",
+        "read_time": "5 min read"
+      },
+      {
+        "title": "From Naples to Brooklyn: The Russo Family's Journey",
+        "excerpt": "Every great restaurant has an origin story. Ours starts in a small Neapolitan kitchen where a grandmother taught her grandson that the best food is made with love, patience, and just the right amount of garlic.",
+        "date": "January 25, 2026",
+        "category": "Our Story",
+        "read_time": "7 min read"
+      },
+      {
+        "title": "5 Tips for Hosting the Perfect Pizza Party at Home",
+        "excerpt": "Planning a pizza night? Our head chef Joe shares his insider tips for creating a memorable pizza party — from dough stretching techniques to the perfect topping combinations that'll impress your guests.",
+        "date": "January 12, 2026",
+        "category": "Tips & Recipes",
+        "read_time": "4 min read"
+      }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "headline": "Get in Touch",
+      "subheadline": "Whether you're placing an order, booking an event, or just want to say hello — we'd love to hear from you."
+    },
+    "form": {
+      "fields": ["name", "email", "phone", "subject", "message"],
+      "subjects": ["General Inquiry", "Catering Request", "Private Event", "Feedback", "Other"],
+      "submit_text": "Send Message",
+      "success_message": "Thanks for reaching out! We'll get back to you within 24 hours."
+    },
+    "business_info": {
+      "address": "123 Main St, Brooklyn, NY 11201",
+      "phone": "555-867-5309",
+      "email": "info@joespizza.com",
+      "hours": [
+        { "days": "Monday - Thursday", "hours": "11:00 AM - 10:00 PM" },
+        { "days": "Friday - Saturday", "hours": "11:00 AM - 11:00 PM" },
+        { "days": "Sunday", "hours": "12:00 PM - 9:00 PM" }
+      ]
+    }
+  },
+  "footer": {
+    "tagline": "Brooklyn's Finest Since 1995",
+    "description": "Family-owned Italian restaurant serving authentic New York-style pizza and homemade pasta. Three generations of flavor, one unforgettable experience.",
+    "quick_links": ["Home", "About", "Services", "Blog", "Contact"],
+    "copyright": "2026 Joe's Pizza Palace. All rights reserved."
+  }
+}
